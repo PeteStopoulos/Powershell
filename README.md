@@ -1,6 +1,6 @@
-# Powershell
-<h1>Welcome to Pete Stopoulos PowerShell Repo</h1>
-Tracker of PowerShell Scripts Created <br/>
+# Pete Stopoulos's Powershell Repository
+
+<h2> Tracker of PowerShell Scripts Created </h2> 
 [X] Create Bulk Organizational Units
 
 <h2> Create Bulk Organizational Units</h2>
